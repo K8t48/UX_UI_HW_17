@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../18.1-activities"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Desktop/Portfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Personal Profile"
+	}
+}
